@@ -1,0 +1,10 @@
+spacy
+pandas
+numpy
+openai
+python-dotenv
+matplotlib
+seaborn
+openpyxl
+tiktoken
+statsmodels

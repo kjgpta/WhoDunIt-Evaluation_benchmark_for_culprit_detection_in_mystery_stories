@@ -1,0 +1,6 @@
+{
+    "Direct": "Read the story carefully and identify the person responsible for the crime. Provide only the culprit's full name as specified.",
+    "Self-Reflection": "Identify the culprit in the story and provide their full name as specified. Then, internally reflect on your answer to ensure it aligns with the story's details, correcting any mistakes if necessary. Only include the culprit's name in your response.",
+    "COT": "Analyze the story step by step, considering all relevant clues and details to identify the culprit. Provide your detailed reasoning in the 'explanation' field and the culprit's full name as specified.",
+    "COT+Self-Reflection": "First, analyze the story step by step to identify the culprit, providing your reasoning in the 'explanation' field. Then, reflect on your reasoning to check for accuracy and completeness, making any necessary corrections. Provide the final culprit's full name as specified."
+}
